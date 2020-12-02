@@ -1,0 +1,20 @@
+data/3.jpg: Predicted in 25.534594 seconds.
+tie: 64%
+tie: 64%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 97%
+person: 96%
+person: 95%
+person: 87%
+person: 83%
+person: 81%
+person: 77%
+person: 76%
+person: 75%
+person: 69%
+person: 51%
+person: 51%

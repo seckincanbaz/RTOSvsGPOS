@@ -1,0 +1,2 @@
+./darknet detector test cfg/coco.data cfg/yolov3.cfg yolov3.weights data/6.jpg
+top -d 0.1 | grep darknet

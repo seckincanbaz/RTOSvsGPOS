@@ -1,0 +1,12 @@
+data/6.jpg: Predicted in 24.712371 seconds.
+bench: 94%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 96%
+person: 96%
+person: 83%
+person: 75%
+person: 72%
+person: 50%

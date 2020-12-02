@@ -1,0 +1,17 @@
+data/2.jpg: Predicted in 25.889714 seconds.
+person: 94%
+person: 79%
+person: 77%
+person: 77%
+person: 75%
+person: 74%
+person: 68%
+person: 64%
+person: 63%
+person: 63%
+person: 59%
+person: 56%
+person: 55%
+person: 53%
+person: 53%
+person: 52%
